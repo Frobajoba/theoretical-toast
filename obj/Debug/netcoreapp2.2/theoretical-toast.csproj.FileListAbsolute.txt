@@ -1,0 +1,11 @@
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/bin/Debug/netcoreapp2.2/theoretical-toast.deps.json
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/bin/Debug/netcoreapp2.2/theoretical-toast.runtimeconfig.json
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/bin/Debug/netcoreapp2.2/theoretical-toast.runtimeconfig.dev.json
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/bin/Debug/netcoreapp2.2/theoretical-toast.dll
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/bin/Debug/netcoreapp2.2/theoretical-toast.pdb
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/obj/Debug/netcoreapp2.2/theoretical-toast.csprojAssemblyReference.cache
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/obj/Debug/netcoreapp2.2/theoretical-toast.csproj.CoreCompileInputs.cache
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/obj/Debug/netcoreapp2.2/theoretical-toast.AssemblyInfoInputs.cache
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/obj/Debug/netcoreapp2.2/theoretical-toast.AssemblyInfo.cs
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/obj/Debug/netcoreapp2.2/theoretical-toast.dll
+/Users/jamescox/Desktop/C# Projects/theoretical-toast/obj/Debug/netcoreapp2.2/theoretical-toast.pdb
