@@ -11,19 +11,19 @@ namespace theoretical_toast
       {
         if (currentNumber % firstMultiple == 0 && currentNumber % secondMultiple == 0)
         {
-
+          Console.WriteLine("Fizz Bang");
         }
         else if (currentNumber % firstMultiple == 0)
         {
-
+          Console.WriteLine("Fizz");
         }
         else if (currentNumber % secondMultiple == 0)
         {
-
+          Console.WriteLine("Bang");
         }
         else
         {
-
+          Console.WriteLine(currentNumber);
         }
       }
     }
